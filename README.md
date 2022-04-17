@@ -17,17 +17,17 @@ The purpose of the project is to create a webpage and dynamic table that allows 
 #Filter Functions:
 Use all lower case when typing text into filter boxes
 
-Filter on State: nj
+Filter on State: in the Enter State section type in nj
 
 ![](https://github.com/timbialek/UFOs/blob/main/Resources/FilterStateNJ.PNG)
 
 
-Filter on State and Date: nj and 1/5/2010
+Filter on State and Date: In the Enter State section type in nj and in the Enter Date section type in 1/5/2010
 
 ![](https://github.com/timbialek/UFOs/blob/main/Resources/FilterStateDate.PNG)
 
 
-Filter on State, Date and Shape: nj and 1/5/2010 and cigar
+Filter on State, Date and Shape: In the Enter State section type in nj and in the Enter Date section type in 1/5/2010 then in the Enter Shape section type in cigar
 
 ![](https://github.com/timbialek/UFOs/blob/main/Resources/FilterStateDateShape.PNG)
 
