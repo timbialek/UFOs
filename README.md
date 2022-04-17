@@ -9,11 +9,12 @@ The purpose of the project is to create a webpage and dynamic table that allows 
 
 ## Results
 
-Site View:
-(https://github.com/timbialek/UFOs/blob/main/Resources/SiteView.PNG)
+#Site View:
+
+![](https://github.com/timbialek/UFOs/blob/main/Resources/SiteView.PNG)
 
 
-Filter Functions:
+#Filter Functions:
 Use all lower case when typing text into filter boxes
 
 Filter on State: nj
