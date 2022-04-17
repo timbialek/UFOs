@@ -22,12 +22,12 @@ Filter on State: nj
 ![](https://github.com/timbialek/UFOs/blob/main/Resources/FilterStateNJ.PNG)
 
 
-Filter on State: state and date
+Filter on State and Date: nj and 1/5/2010
 
 ![](https://github.com/timbialek/UFOs/blob/main/Resources/FilterStateDate.PNG)
 
 
-Filter on State: state and date and shape
+Filter on State, Date and Shape: nj and 1/5/2010 and cigar
 
 ![](https://github.com/timbialek/UFOs/blob/main/Resources/FilterStateDateShape.PNG)
 
@@ -36,8 +36,8 @@ Filter on State: state and date and shape
 
 Drawback:
 
- One of the drawbacks the site design is that is case sensitive and everything needs to be in lower case. A change to the coding that would convert any uppercase letter to lower case which would make the user experience better. 
+ One of the drawbacks the site design is that it is case sensitive and everything needs to be in lower case. A change to the coding that would convert any uppercase letter to lower case which would make for a better user experience. 
 
 Enhancements:
 
- The first enhancement I would recommend is to make the filters also serve as drop down list that would display the values available in the field.  The second enhancement would be to a clear filters button to make it easier to reset the page.
+ The first enhancement I would recommend is to make the filters also serve as a drop down list that would display the values available in the field.  The second enhancement would be a clear filters button to make it easier to reset the page.
